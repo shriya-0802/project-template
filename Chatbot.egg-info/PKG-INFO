@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: Chatbot
+Version: 0.0.1
+Author: shriya
+Author-email: shriya.mohanty2022@vitstudent.ac.in
+Requires-Dist: langchain_core
